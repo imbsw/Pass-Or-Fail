@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548945175 source:c:\users\buddh\documents\my projects\result finder\main.c
+	<stdio.h>
+	<stdlib.h>
+
